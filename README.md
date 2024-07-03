@@ -56,6 +56,23 @@ for(let i=0;i<___;i++)
 
 FUNCTIONS
 
+![image](https://github.com/Erikamediratta/Frontend/assets/146512912/1ad1b619-a508-482b-ad5d-4dd31ebe8f7a)
+
+ARROW FUNCTIONS
+
+![image](https://github.com/Erikamediratta/Frontend/assets/146512912/0c00ce74-9092-4021-b49a-7b84d3ff0388)
+
+
+BUILT-IN FUNCTIONS
+
+https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm
+
+
+
+
+
+
+
 
 
 
