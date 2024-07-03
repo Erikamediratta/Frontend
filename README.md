@@ -33,6 +33,32 @@ if statement is true then firstvalue is executed else secondvalue is executed
 ![image](https://github.com/Erikamediratta/Javascript/assets/146512912/12df4dba-217c-4d8d-8911-5daa940274bd)
 
 
+SWITCH STATEMENT
+
+switch(condition){
+case value:
+  statements;
+  break;
+case value:
+  statements;
+  break;
+default:
+  statements;
+  break;
+  }
+
+
+LOOPS
+
+for(let i=0;i<___;i++)
+{}
+
+
+FUNCTIONS
+
+
+
+
 
 
 
