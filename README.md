@@ -29,7 +29,11 @@ if statement is true then firstvalue is executed else secondvalue is executed
 ![image](https://github.com/Erikamediratta/Javascript/assets/146512912/bb864ea3-25fc-4398-9b33-8d5042557f0c)
 
 
+
 ![image](https://github.com/Erikamediratta/Javascript/assets/146512912/12df4dba-217c-4d8d-8911-5daa940274bd)
+
+
+
 
 
 
