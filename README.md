@@ -66,6 +66,11 @@ ARROW FUNCTIONS
 BUILT-IN FUNCTIONS
 
 https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm
+https://www.w3schools.com/js/js_string_methods.asp
+
+
+![image](https://github.com/Erikamediratta/Frontend/assets/146512912/c7d760d3-b136-45d4-8aa9-e7c7f1980f00)
+
 
 
 
